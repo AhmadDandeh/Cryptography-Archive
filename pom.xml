@@ -9,9 +9,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>DES-Project-2014</module>
-        <module>Whirlpool-Project-2018</module>
-        <module>GSM-Security-2020</module>
+        <module>DES</module>
+        <module>Whirlpool</module>
+        <module>GSM-Security</module>
     </modules>
 
     <properties>

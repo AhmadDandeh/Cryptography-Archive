@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GSM-Security-2020" />
+        <module name="GSM-Security" />
+        <module name="Whirlpool" />
         <module name="DES-Project-2014" />
-        <module name="Whirlpool-Project-2018" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DES" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

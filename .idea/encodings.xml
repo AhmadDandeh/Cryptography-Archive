@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/DES-Project-2014/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/DES-Project-2014/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/GSM-Security-2020/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/GSM-Security-2020/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Whirlpool-Project-2018/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Whirlpool-Project-2018/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DES/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DES/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GSM-Security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GSM-Security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Whirlpool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Whirlpool/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

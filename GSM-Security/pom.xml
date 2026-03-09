@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>GSM-Security-2020</artifactId>
+    <artifactId>GSM-Security</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
